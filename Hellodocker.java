@@ -14,3 +14,11 @@ node server.js
 
 https://github.com/kalearati
   github.com/pratiksha-bhagwat
+pratikshabhagwat066@gmail.com
+
+
+  Gmail id = aratikale9297@gmail.com
+Password = Moreshwar@321
+
+  Github  = aratikale9297@gmail.com
+Passcode = aratikale9297@Aa
