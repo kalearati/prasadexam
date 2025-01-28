@@ -1,8 +1,13 @@
-class Hellodocker
-{
-    public static void main(String args[])
-    {
-        System.out.println("Hello!");
-        System.out.println("Prasad");
-    }
-}
+==> npx create-react-app user-list-app
+==> cd user-list-app
+==> npm install web-vitals
+==> npm start
+
+===>npm install bootstrap
+===> import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+Ques ===========
+server.js
+npm install express
+node server.js
